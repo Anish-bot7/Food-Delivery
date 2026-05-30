@@ -116,7 +116,7 @@ Backend
 ---
 
 ## 📸 Screenshots
-
+<img width="1911" height="982" alt="Image" src="https://github.com/user-attachments/assets/9e945aa0-4f5c-483a-8ddc-77a2cb69c64d" />
 Add screenshots of:
 
 - Home Page
